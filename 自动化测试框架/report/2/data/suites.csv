@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1","test_register_success","","Thu Nov 14 21:04:56 CST 2024","passed","Thu Nov 14 21:04:56 CST 2024","TestRegister","test_feature_story","",""
+"","0","test_login_failure","","Thu Nov 14 21:04:56 CST 2024","failed","Thu Nov 14 21:04:56 CST 2024","TestLogin","test_feature_story","",""
+"","0","test_register_failure","","Thu Nov 14 21:04:56 CST 2024","passed","Thu Nov 14 21:04:56 CST 2024","TestRegister","test_feature_story","",""
+"","0","test_login_success","","Thu Nov 14 21:04:56 CST 2024","passed","Thu Nov 14 21:04:56 CST 2024","TestLogin","test_feature_story","",""
+"","0","test_login_failure_a","","Thu Nov 14 21:04:56 CST 2024","passed","Thu Nov 14 21:04:56 CST 2024","TestLogin","test_feature_story","",""
