@@ -35,3 +35,5 @@ TEST_CASE_LINK = 'https://github.com'
 def test_with_testcase_link():
     pass
 
+# pytest test_allure_link_issue.py --allure-link-pattern=issue:http://www.bugfree.com/issue/{} --alluredir=./result/3
+# allure serve ./result/3

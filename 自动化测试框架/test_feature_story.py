@@ -54,3 +54,8 @@ class TestRegister():
     
 # @allure.attach('具体文本信息')
 # 附加信息：数据，文本，图片，视频，网页
+
+
+# pytest test_feature_story.py --alluredir=./result/2 
+# allure generate ./result/2 -o ./report/2/ --clean
+# allure open -h 127.0.0.1 -p 8883 ./report/2
